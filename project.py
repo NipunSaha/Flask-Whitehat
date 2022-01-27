@@ -5,13 +5,13 @@ app = Flask(__name__)
 contacts = [
     {
         'Contact': "1234567890",
-        'Name' : "Ralph",
+        'Name' : "Alex",
         'done' : False,
         "id" : 1
     },
     {
         'Contact': "0987654321",
-        'Name' : "Alph",
+        'Name' : "Oliver",
         'done' : False,
         "id" : 2
     }
